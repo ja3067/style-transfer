@@ -2,7 +2,7 @@
 
 Experimental implementations of style transfer algorithms for art and music in PyTorch
 
-![style-transfer.png](https://raw.githubusercontent.com/ja3067/style-transfer/master/samples/mosaicnyc.png?&s=400)
+<img src="https://raw.githubusercontent.com/ja3067/style-transfer/master/samples/mosaicnyc.png" width="500">
 
 # To use
 
